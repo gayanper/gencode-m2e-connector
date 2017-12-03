@@ -1,10 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/gencode-m2e-connector.feature_0.0.0.jar" id="gencode-m2e-connector.feature" version="0.0.0">
-      <category name="gencode-m2e-connector"/>
-   </feature>
-   <feature url="features/gencode-m2e-connector.feature.source_0.0.0.jar" id="gencode-m2e-connector.feature.source" version="0.0.0">
-      <category name="gencode-m2e-connector Developer Resources"/>
-   </feature>
    <feature url="features/org.gap.eclipse.plugins.m2e.gencode.feature_1.0.0.qualifier.jar" id="org.gap.eclipse.plugins.m2e.gencode.feature" version="1.0.0.qualifier"/>
 </site>
