@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         point="org.eclipse.m2e.core.projectConfigurators">
+      <configurator
+            class="org.gap.eclipse.plugins.m2e.gencode.core.GenCodeConfigurator"
+            id="org.gap.eclipse.plugins.m2e.gencode.gencodeConfigurator">
+      </configurator>
+   </extension>
+   <extension
+         point="org.eclipse.m2e.core.lifecycleMappingMetadataSource">
+   </extension>
+   <extension
+         point="org.eclipse.ui.preferencePages">
+      <page
+            category="org.eclipse.m2e.core.preferences.LifecycleMappingPreferencePag"
+            class="org.gap.eclipse.plugins.m2e.gencode.core.pref.GenCodePreferencePage"
+            id="org.gap.eclipse.plugins.m2e.gencode.core.PreferencePage"
+            name="GenCode">
+      </page>
+   </extension>
+   <extension
+         point="org.eclipse.core.runtime.preferences">
+      <initializer
+            class="org.gap.eclipse.plugins.m2e.gencode.core.pref.GenCodePreferenceInitializer">
+      </initializer>
+   </extension>
+
+
+
+</plugin>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lifecycleMappingMetadata>
+
+	<pluginExecutions>
+		<pluginExecution>
+			<pluginExecutionFilter>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-resources-plugin</artifactId>
+				<versionRange>[2.0.0,)</versionRange>
+				<goals>
+					<goal>resources</goal>
+				</goals>
+			</pluginExecutionFilter>
+			<action>
+				<configurator>
+					<id>org.gap.eclipse.plugins.m2e.gencode.gencodeConfigurator</id>
+				</configurator>
+				<execute>
+					<runOnConfiguration>false</runOnConfiguration>
+					<runOnIncremental>true</runOnIncremental>
+				</execute>
+			</action>
+		</pluginExecution>
+	</pluginExecutions>
+</lifecycleMappingMetadata>
