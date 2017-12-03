@@ -6,7 +6,7 @@
 		<version>1.0.0-SNAPSHOT</version>
 	</parent>
 	<modelVersion>4.0.0</modelVersion>
-  <artifactId>gencode-m2e-connector.test</artifactId>
+  <artifactId>org.gap.eclipse.plugins.m2e.gencode.test</artifactId>
   <packaging>eclipse-test-plugin</packaging>
   <name>gencode-m2e-connector :: test</name>
   <description>gencode-m2e-connector Test Plugin</description>
