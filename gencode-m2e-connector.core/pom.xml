@@ -6,7 +6,7 @@
     <version>1.0.0-SNAPSHOT</version>
   </parent>
   <modelVersion>4.0.0</modelVersion>
-  <artifactId>org.gap.eclipse.plugins.m2e.gencode.feature</artifactId>
+  <artifactId>org.gap.eclipse.plugins.m2e.gencode.core</artifactId>
   <packaging>eclipse-plugin</packaging>
   <name>gencode-m2e-connector :: core</name>
   <description>gencode-m2e-connector Core Plugin</description>
