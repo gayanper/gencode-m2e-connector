@@ -147,7 +147,7 @@
   </profiles>
   <modules>
     <module>gencode-m2e-connector.core</module>
-    <module>gencode-m2e-connector.test</module>
+    
     <module>gencode-m2e-connector.feature</module>
     <module>gencode-m2e-connector.site</module>
   </modules>
