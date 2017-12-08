@@ -4,7 +4,7 @@ M2E connector plugin which can be used to connected generated source code folder
 
 ### Update Site
 
-[https://dl.bintray.com/gayanper/p2/gencode-m2e-connector/nightly/] (https://dl.bintray.com/gayanper/p2/gencode-m2e-connector/nightly/)
+[https://dl.bintray.com/gayanper/p2/gencode-m2e-connector/nightly/](https://dl.bintray.com/gayanper/p2/gencode-m2e-connector/nightly/)
 
 
 
