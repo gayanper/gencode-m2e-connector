@@ -11,11 +11,5 @@ By default this connector is mapped with maven `maven-resources-plugin:resources
 
 
 ## Update site
-Stable and Nightly update sites
-### Stable
-
-Coming soon
-
-### Nightly
-[https://dl.bintray.com/gayanper/p2/gencode-m2e-connector/nightly/](https://dl.bintray.com/gayanper/p2/gencode-m2e-connector/nightly/)
+[https://dl.bintray.com/gayanper/p2/gencode-m2e-connector](https://dl.bintray.com/gayanper/p2/gencode-m2e-connector)
 
